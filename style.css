@@ -1,0 +1,76 @@
+body
+{
+    padding-top: 2em;
+    padding-left: 4em;
+
+}
+.name
+{
+    margin-top: .7em;
+    font-weight: bold;
+    font-size: 1.4em;
+    margin-bottom: 1.5em;
+}
+.channelp
+{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: blueviolet;
+    float: left;
+}
+.subscribe
+{
+    background-color: black;
+    border-radius: 1.5em;
+    width: 8em;
+    height: 1.8em;
+    color: white;
+    display: inline-block;
+    float: left;
+    margin-left: 2.5em;
+    text-align: center;
+    padding-top: .4em;
+}
+.share
+{
+    margin-left: 1em;
+    padding-top: .4em;
+    border-radius: 1.5em;
+    background-color: lightgray;
+    width: 8em;
+    height: 1.8em;
+    float:left;
+    text-align: center;
+}
+.likes
+{
+    margin-left: 13em;
+    padding-top: .4em;
+    border-radius: 1.5em;
+    background-color: lightgray;
+    width: 8em;
+    height: 1.8em;
+    text-align: center;
+}
+.description
+{
+    padding: 1.5em;
+    margin-top: 2em;
+    background-color: lightgray;
+    border-radius: 1.5em;
+    width: 51em;
+    height: 5em;
+    overflow: hidden;
+    margin-bottom: 1em;
+}
+.recomend
+{
+    clear: both;
+    border-radius: 1em;
+    width: 10em;
+    height: 6em;
+    background-color: lightgreen;
+    float: left;
+    display: block;
+}
